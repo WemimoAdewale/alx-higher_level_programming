@@ -1,1 +1,1 @@
-script that prints a given strkng
+script that does ehst is given
