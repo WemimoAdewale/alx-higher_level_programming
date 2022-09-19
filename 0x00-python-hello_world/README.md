@@ -1,1 +1,1 @@
-script that print
+script that prints number
