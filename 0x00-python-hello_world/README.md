@@ -1,1 +1,1 @@
-script that concantenates
+slicing skills
