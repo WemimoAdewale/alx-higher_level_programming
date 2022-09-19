@@ -1,1 +1,1 @@
-script that calculates magically
+script that prints float
