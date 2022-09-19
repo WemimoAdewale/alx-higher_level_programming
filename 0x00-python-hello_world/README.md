@@ -1,1 +1,1 @@
-my task 0
+script that print string
