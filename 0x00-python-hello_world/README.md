@@ -1,1 +1,1 @@
-script that prints a float
+script that print
