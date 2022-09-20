@@ -10,6 +10,6 @@ def fizzbuzz():
         elif (number % 5):
             print("%s" % (BUZZ), end=' ')
         elif (number % 15):
-            print("%s%s" % (FIZZ,BUZZ), end=' ')
+            print("%s%s" % (FIZZ, BUZZ), end=' ')
         else:
             print("%d" % (number), end=' ')
