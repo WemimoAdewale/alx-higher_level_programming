@@ -1,1 +1,1 @@
-if,else,loops,functions
+script that prints last digit
