@@ -3,7 +3,7 @@
 
 
 class Square:
-    """Tepresent a squate"""
+    """Represent a square"""
 
     def __init__(self, size=0, position=(0, 0)):
         """Initialize a new square.
@@ -52,8 +52,8 @@ class Square:
             print("")
             return
 
-    [print("") for i in range(0, self.__position[1])]
-    for i in range(0, self.__size):
-        [print(" ", end="") for j in range(0, self.__position[0])]
-        [print("#", end="") for k in range(0, self.__size)]
-        print("")
+        [print("") for i in range(0, self.__position[1])]
+        for i in range(0, self.__size):
+            [print(" ", end="") for j in range(0, self.__position[0])]
+            [print("#", end="") for k in range(0, self.__size)]
+            print("")
