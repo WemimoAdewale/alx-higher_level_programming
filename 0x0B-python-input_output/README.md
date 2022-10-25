@@ -1,0 +1,1 @@
+file reading ans printing
