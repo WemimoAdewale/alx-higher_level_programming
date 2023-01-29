@@ -1,1 +1,1 @@
-a project on python classes and objects
+more sql projects
